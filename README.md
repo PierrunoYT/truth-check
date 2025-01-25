@@ -1,4 +1,4 @@
-# TruthCheck 🔍
+# AI Fact Checker 🔍
 
 > A powerful AI-powered fact-checking application that verifies statements using Perplexity's Sonar models with web search capabilities.
 
