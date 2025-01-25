@@ -6,8 +6,6 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/react-%5E18.0.0-blue)](https://reactjs.org/)
 
-![TruthCheck Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - 🔍 Real-time fact checking with web search capabilities
